@@ -5,6 +5,8 @@ Para executar o programa, é necessário ter o Intellij ou Eclipse instalado em 
 Em seguida, precisa selecionar qual método vai querer, GET, POST, PUT, DELETE
 
 - Para fazer o deploy é nescessario clonar esse repositorio conectar o seu github no Azure. Após fazer isso é só seguir o passo a passo do Vídeo.
+  
+# Video do CP 2:
 
 # Vídeo do deploy na nuvem e o funcionamento do projeto:
  https://youtu.be/WB0asTmQsXo 
