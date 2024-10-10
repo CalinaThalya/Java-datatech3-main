@@ -6,7 +6,7 @@ Em seguida, precisa selecionar qual método vai querer, GET, POST, PUT, DELETE
 
 - Para fazer o deploy é nescessario clonar esse repositorio conectar o seu github no Azure. Após fazer isso é só seguir o passo a passo do Vídeo.
   
-# Video do CP 2:
+# Video do CP 2: https://www.youtube.com/watch?v=9vxchhVXnF0
 
 # Vídeo do deploy na nuvem e o funcionamento do projeto:
  https://youtu.be/WB0asTmQsXo 
