@@ -6,6 +6,8 @@ Ana Paula- rm552523
 Calina Thalya- rm552513
 Nathan Nunes- rm552539
 
+para textar o codigo no banco use: rm552523 e senha 120399
+
 # Instruções de Execução
 Para executar o programa, é necessário ter o Intellij ou Eclipse instalado em seu computador. Em seguida, precisa carregar as dependências e depois é necessário fazer os testes ou em algum navegador ou no postman
 
